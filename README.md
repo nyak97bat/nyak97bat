@@ -26,13 +26,9 @@
 
 ---
 
-<div style="width: 100%; border: 2px solid #58a6ff; border-radius: 8px; overflow: hidden; padding: 10px 0; background: #0d1117;">
-  <marquee behavior="scroll" direction="left" scrollamount="5" scrolldelay="0">
-    <span style="font-family: monospace; font-size: 20px; font-weight: bold; color: #58a6ff; letter-spacing: 2px;">
-      theoverseer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; theoverseer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; theoverseer
-    </span>
-  </marquee>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=THE+OVERSEER;THE+OVERSEER;THE+OVERSEER" alt="Typing Animation" />
+</p>
 
 ---
 
