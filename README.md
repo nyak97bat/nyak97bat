@@ -1,66 +1,54 @@
+<h1 align="center">Hi there, I'm a Senior Software Engineer</h1>
+
 <p align="center">
-  <h1 align="center">مرحباً بك في ملفي الشخصي! 🚀</h1>
+  Architecting robust, scalable distributed systems and high-performance backend applications.
 </p>
 
 ---
 
-<table width="100%">
-  <tr>
-    <!-- قسم اليسار: لعبة أو عنصر تفاعلي ديناميكي (يمكن استبداله بصورة متحركة أو شارة تفاعلية) -->
-    <td align="center" width="50%">
-      <h3>🐍 لعبة الثعبان الذكية (AI Snake)</h3>
-      <p>محاكاة ذكية للعبة الثعبان تعمل بشكل ذاتي وخارق!</p>
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=400&lines=Autonomous+AI+Snake...;Optimizing+Pathfinding...;Running+at+Maximum+Efficiency!" alt="Typing SVG" />
-      </p>
-      <br>
-      <!-- شارة تفاعلية تعبيرية -->
-      <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat-square" alt="Profile Visitors" />
-    </td>
+### 🚀 About Me
 
-    <!-- قسم اليمين: صورتك الشخصية -->
-    <td align="center" width="50%">
-      <h3>👤 صورتي الشخصية</h3>
-      <br>
-      <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/56486.jpg" alt="Profile Image" width="220px" style="border-radius: 50%;" />
-    </td>
-  </tr>
-</table>
+* **Current Focus:** Microservices architecture, cloud-native development, and system optimization.
+* **Core Philosophy:** Clean code, rigorous testing, automation, and deterministic performance.
+* **Languages:** TypeScript, Go, Python, Rust, C++
+* **Infrastructure & Cloud:** AWS, Kubernetes, Docker, Terraform, CI/CD pipelines
+* **Databases & Caching:** PostgreSQL, Redis, Kafka, Elasticsearch
 
 ---
 
-## 🛠️ أدوات وتقنيات التطوير (Development Tools)
+### 💻 GitHub Stats
 
 <p align="center">
-  <!-- بايثون -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- غودوت -->
-  <a href="https://godotengine.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- جيت -->
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- فيجوال سبيس كود -->
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- لغة سي شارب -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 احصائيات الزوار
+### 🛠️ Technical Expertise
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend Engineering** | Node.js, FastAPI, Gin, gRPC, RESTful APIs |
+| **DevOps & Cloud** | AWS (ECS, Lambda, S3, RDS), Kubernetes, GitHub Actions |
+| **Data Engineering** | Apache Kafka, PostgreSQL, Redis, MongoDB |
+| **Testing & Quality** | Jest, PyTest, TDD, Static Analysis, CI Automation |
+
+---
+
+### 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR-USERNAME.YOUR-USERNAME" alt="Visitor Count" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=nord&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+### 📬 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* **Email:** developer@example.com
+* **Website:** https://yourdomain.com
