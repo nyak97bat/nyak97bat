@@ -34,4 +34,13 @@
 
 ### Professional Network
 
+<div align="center">
+  <a href="https://discord.gg/alger" style="text-decoration: none;">
+    <div style="display: inline-block; padding: 12px 25px; border: 2px solid #5865F2; border-radius: 50px; background: #0d1117; color: #5865F2; font-weight: bold; font-family: sans-serif; transition: 0.3s;">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="20" style="vertical-align: middle; margin-right: 10px;" />
+      Discord.gg/alger
+    </div>
+  </a>
+</div>
+
 </div>
