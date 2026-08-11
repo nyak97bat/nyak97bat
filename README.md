@@ -32,15 +32,18 @@
 
 ---
 
-### Professional Network
+<br>
 
 <div align="center">
-  <a href="https://discord.gg/alger" style="text-decoration: none;">
-    <div style="display: inline-block; padding: 12px 25px; border: 2px solid #5865F2; border-radius: 50px; background: #0d1117; color: #5865F2; font-weight: bold; font-family: sans-serif; transition: 0.3s;">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="20" style="vertical-align: middle; margin-right: 10px;" />
-      Discord.gg/alger
-    </div>
+  <a href="https://discord.gg/alger" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-stats.cyclic.app/api/time?geoname_id=2502265&theme=tokyonight&hour_format=12" alt="Algeria Time" />
 </div>
 
 </div>
