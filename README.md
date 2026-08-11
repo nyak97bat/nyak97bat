@@ -1,54 +1,50 @@
-<h1 align="center">Hi there, I'm a Senior Software Engineer</h1>
+<div align="center">
 
-<p align="center">
-  Architecting robust, scalable distributed systems and high-performance backend applications.
-</p>
-
----
-
-### 🚀 About Me
-
-* **Current Focus:** Microservices architecture, cloud-native development, and system optimization.
-* **Core Philosophy:** Clean code, rigorous testing, automation, and deterministic performance.
-* **Languages:** TypeScript, Go, Python, Rust, C++
-* **Infrastructure & Cloud:** AWS, Kubernetes, Docker, Terraform, CI/CD pipelines
-* **Databases & Caching:** PostgreSQL, Redis, Kafka, Elasticsearch
+# THE OVERSEER
+### Senior Software Engineer & Systems Architect
 
 ---
 
-### 💻 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,go,rust,python,cpp,docker,kubernetes,aws,linux,git,postgres,redis,kafka,vim" alt="Tech Stack" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</p>
+<br>
 
 ---
 
-### 🛠️ Technical Expertise
+### Core Competencies
 
-| Domain | Technologies |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Backend Engineering** | Node.js, FastAPI, Gin, gRPC, RESTful APIs |
-| **DevOps & Cloud** | AWS (ECS, Lambda, S3, RDS), Kubernetes, GitHub Actions |
-| **Data Engineering** | Apache Kafka, PostgreSQL, Redis, MongoDB |
-| **Testing & Quality** | Jest, PyTest, TDD, Static Analysis, CI Automation |
+| **Infrastructure & DevOps** | Docker, Kubernetes, AWS, Terraform, Linux, CI/CD |
+| **Data Architecture** | PostgreSQL, Redis, Apache Kafka, Elasticsearch |
+| **System Reliability** | Automated Testing, Profiling, Performance Tuning |
 
 ---
 
-### 📈 Contribution Activity
+### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theoverseer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoverseer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theoverseer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📬 Connect With Me
+### Professional Network
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-* **Email:** developer@example.com
-* **Website:** https://yourdomain.com
+* **GitHub:** [github.com/theoverseer](https://github.com/theoverseer)
+* **Email:** contact@theoverseer.dev
+
+</div>
