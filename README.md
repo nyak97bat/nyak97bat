@@ -44,7 +44,4 @@
 
 ### Professional Network
 
-* **GitHub:** [github.com/theoverseer](https://github.com/theoverseer)
-* **Email:** contact@theoverseer.dev
-
 </div>
