@@ -36,14 +36,8 @@
 
 <div align="center">
   <a href="https://discord.gg/alger" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&scale=1.5" alt="Discord Server" style="border-radius: 8px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-stats.cyclic.app/api/time?geoname_id=2502265&theme=tokyonight&hour_format=12" alt="Algeria Time" />
 </div>
 
 </div>
